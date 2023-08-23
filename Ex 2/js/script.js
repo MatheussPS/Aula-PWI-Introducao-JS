@@ -46,7 +46,7 @@ function dividir(){
     if(n2!=0){
         result.innerHTML = " "+(n1)+" elevado ao quadrado é: " + n1*n1; 
     }
-    result.innerHTML =" " +(n1) +" dividido por "+(n2)+" é: 0"; 
+    result.innerHTML = "Não existe divisão" ; 
     // var  n1 = parseFloat(prompt("Digite o primeiro número"));
     // var  n2 = parseFloat(prompt("Digite o segundo número"));
     // var resultdiv = n1 /n2; 
